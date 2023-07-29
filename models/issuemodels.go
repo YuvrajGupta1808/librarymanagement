@@ -6,7 +6,7 @@ import (
 	"log"
 	"strconv"
 	"time"
-	"yuvraj/project/config"
+	"yuvraj/config"
 )
 
 type IssuedBook struct {

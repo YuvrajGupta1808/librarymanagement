@@ -2,7 +2,7 @@ package models
 
 import (
 	"database/sql"
-	"yuvraj/project/config"
+	"yuvraj/config"
 )
 
 type Book struct {

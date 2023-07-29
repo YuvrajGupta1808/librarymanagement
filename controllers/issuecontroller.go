@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	//"yuvraj/project/config"
-	"yuvraj/project/models"
+	"yuvraj/models"
 
 	"github.com/gin-gonic/gin"
 )
